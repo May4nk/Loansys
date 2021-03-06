@@ -14,6 +14,10 @@ It will automatically install requirement in container and run it
 
 To register a user send POST request to /register/
 
+****To get authentications token****
+
+To get authentication token after registration send POST request to /login/                                                                    
+
 ****User can be viewed,updated,deleted by only Admin role****
 
 To view all users send GET request to /users/                                                                   
