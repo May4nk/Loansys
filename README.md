@@ -2,9 +2,10 @@
 
 A loan system with role(admin,agent,user) restriction api in django rest framework
 
-To run this file download docker-compose
-run docker-compose up or docker-compose build                                                                           
-It will automatically install requirement in container and run it                                                                                   
+To run this file download docker-compose,
+
+run docker-compose up or docker-compose build,                                                                       
+It will automatically install requirement in container and run it.                                                                                  
 
 # Usage
 
